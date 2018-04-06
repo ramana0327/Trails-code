@@ -1,2 +1,4 @@
 # trails code (web scraping)
-this is the code for trails data
+This code uses the BeautifulSoup library to extract the links in https://www.traillink.com/.
+
+
